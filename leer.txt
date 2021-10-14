@@ -1,0 +1,3 @@
+Leer
+1. descomprimir archivo .env
+2. comandos: - composer install -composer update
