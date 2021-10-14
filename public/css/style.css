@@ -1,0 +1,26 @@
+body{
+    background: #313a3d;
+}
+.view_tareas{
+    padding: 25px;
+}
+.list_items{
+    margin-top: 70px;
+    background: #fff;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+}
+
+.btn_destroy{
+    position: absolute;
+    top: 20%;
+    right: 5px;
+}
+.line{
+    background:#d4edda;
+     display:block;
+     height: 1px;
+     width:100%;
+}
