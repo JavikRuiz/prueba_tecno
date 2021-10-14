@@ -66,14 +66,26 @@
                         <button type="submit" class="btn btn-primary">Agregar</button>
                     </form>
                     <div class="list_items">
-                        <span class="badge badge-primary">Primary</span>
-                        <span class="badge badge-secondary">Secondary</span>
-                        <span class="badge badge-success">Success</span>
-                        <span class="badge badge-danger">Danger</spa
-                        <span class="badge badge-warning">Warning</span>
-                        <span class="badge badge-info">Info</span>
-                        <span class="badge badge-light">Light</span>
-                        <span class="badge badge-dark">Dark</span>
+                        <div class="row">
+                            <div class="col-12">
+                                <h5 style="font-size: 10px">
+                                    Define las tareas segun la importancia con los siguientes Items
+                                    Seguidos de la descripcion.
+                                </h5>
+                            </div>
+                        <div class="col-12">
+                            <span class="badge badge-primary">Primary</span>
+                            <span class="badge badge-secondary">Secondary</span>
+                            <span class="badge badge-success">Success</span>
+                            <span class="badge badge-danger">Danger</spa
+                            <span class="badge badge-warning">Warning</span>
+                            <span class="badge badge-info">Info</span>
+                            <span class="badge badge-light">Light</span>
+                            <span class="badge badge-dark">Dark</span>
+                        </div>
+                        </div>
+                        
+                        
                     </div>
                         
                 </div>
